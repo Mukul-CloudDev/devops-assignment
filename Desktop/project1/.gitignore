@@ -1,0 +1,6 @@
+# ignoring the logs file 
+application.log
+# ignoring the executables
+moudle.pyc
+output.out
+output.exe
